@@ -63,31 +63,32 @@ LICENSE → MIT License
 
 Clone the repository:
 
-git clone https://github.com/AbbasKamal403/CodeAlpha_BugBountyTool.git
-cd CodeAlpha_BugBountyTool
+`` git clone https://github.com/AbbasKamal403/CodeAlpha_BugBountyTool.git ``
+
+`` cd CodeAlpha_BugBountyTool ``
 
 
 Install dependencies:
 
-pip install requests beautifulsoup4
+`` pip install requests beautifulsoup4 ``
 
 ▶️ Usage
 
 Run the tool:
 
-python3 bug_bounty_tool.py <target-url>
+`` python3 bug_bounty_tool.py <target-url> ``
 
 
 Example:
 
-python3 bug_bounty_tool.py http://testphp.vulnweb.com
+`` python3 bug_bounty_tool.py http://testphp.vulnweb.com ``
 
 
 Reports will be saved automatically.
 
 📸 Sample Output
 
-(Add your screenshot here)
+
 
 [+] Starting scan...
 [*] Scanning security headers...
